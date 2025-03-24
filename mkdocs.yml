@@ -1,5 +1,6 @@
 site_name: My Docs
 nav:
   - Home: index.md
+  - Introduction: code_introduction.md
   - About: about.md
 theme: rtd-dropdown
